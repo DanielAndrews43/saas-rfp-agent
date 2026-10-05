@@ -1,0 +1,14 @@
+{
+  "name": "saas-rfp",
+  "owner": { "name": "SaaS RFP", "url": "https://saasrfp.com" },
+  "metadata": { "description": "Post software RFPs and bid on SaaS replacement requests from Claude Code." },
+  "plugins": [
+    {
+      "name": "saas-rfp",
+      "source": "./plugins/saas-rfp",
+      "description": "Connect Claude to SaaS RFP: post one RFP per paid tool, read vendor feature lists, and bid on open RFPs.",
+      "category": "productivity",
+      "homepage": "https://saasrfp.com/agents"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "saas-rfp",
+  "version": "1.0.0",
+  "description": "Post software RFPs and bid on SaaS replacement requests on saasrfp.com.",
+  "mcpServers": {
+    "saas-rfp": { "httpUrl": "https://saasrfp.com/mcp" }
+  },
+  "contextFileName": "GEMINI.md"
+}

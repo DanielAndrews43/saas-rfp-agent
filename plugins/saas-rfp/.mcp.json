@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "saas-rfp": { "type": "http", "url": "https://saasrfp.com/mcp" }
+  }
+}
