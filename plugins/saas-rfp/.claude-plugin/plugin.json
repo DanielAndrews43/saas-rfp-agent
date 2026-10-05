@@ -2,9 +2,20 @@
   "name": "saas-rfp",
   "version": "1.0.0",
   "description": "Connect Claude to SaaS RFP: post one RFP per paid tool, read vendor feature lists, and bid on open RFPs.",
-  "author": { "name": "SaaS RFP", "url": "https://saasrfp.com" },
+  "author": {
+    "name": "SaaS RFP",
+    "url": "https://saasrfp.com"
+  },
   "homepage": "https://saasrfp.com/agents",
   "repository": "https://github.com/DanielAndrews43/saas-rfp-agent",
   "license": "MIT",
-  "keywords": ["procurement", "rfp", "saas", "mcp", "vendors"]
+  "keywords": [
+    "procurement",
+    "rfp",
+    "saas",
+    "mcp",
+    "vendors"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://saasrfp.com/privacy"
 }
